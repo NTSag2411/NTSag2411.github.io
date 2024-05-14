@@ -1,0 +1,31 @@
+<!-- fragment_student_info.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/studentImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/trangiabao" />
+
+    <TextView
+        android:id="@+id/tvStudentID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2001210328" />
+
+    <TextView
+        android:id="@+id/tvStudentName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Trần Gia Bảo" />
+
+    <TextView
+        android:id="@+id/tvStudentClass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="12DHTH07" />
+</LinearLayout>

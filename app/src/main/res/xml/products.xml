@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Product 1</name>
+        <manufacturer>Manufacturer 1</manufacturer>
+        <type>Type 1</type>
+        <!-- Thêm các trường dữ liệu khác của sản phẩm 1 nếu cần -->
+    </product>
+    <product>
+        <id>2</id>
+        <name>Product 2</name>
+        <manufacturer>Manufacturer 2</manufacturer>
+        <type>Type 2</type>
+        <!-- Thêm các trường dữ liệu khác của sản phẩm 2 nếu cần -->
+    </product>
+    <!-- Thêm các sản phẩm khác tương tự -->
+</products>
